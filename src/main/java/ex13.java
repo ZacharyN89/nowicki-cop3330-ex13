@@ -33,7 +33,10 @@ Challenges
     Create a version of the program that works in reverse, so you can determine the initial amount you’d need to invest to reach a specific goal.
     Implement this program as a GUI app that automatically updates the values when any value changes.
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex13 {
